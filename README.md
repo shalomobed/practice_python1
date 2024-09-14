@@ -1,4 +1,4 @@
-Welcome to my Python practice projects repository! This collection showcases the small programs I developed while learning Python from January 2024 to May 2024.
+Welcome to my Python practice projects repository! This collection showcases the small programs I developed while learning Python from **January 2024 to May 2024**.
 
 **Overview:**    
 This repository contains several beginner-level projects and exercises I completed as part of my learning journey. Each project helped me solidify my understanding of Python fundamentals, including, but not limited to:
