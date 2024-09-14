@@ -1,6 +1,7 @@
-## Welcome to my Python practice projects repository! This collection showcases the small programs I developed while learning Python from **January 2024 to May 2024**.
+# Python Practice Projects (January 2024 - May 2024)
+Welcome to my Python practice projects repository! This collection showcases the small programs I developed while learning Python from **January 2024 to May 2024**.
 
-### **Overview:**    
+## **Overview:**    
 This repository contains several beginner-level projects and exercises I completed as part of my learning journey. Each project helped me solidify my understanding of Python fundamentals, including, but not limited to:
 
 - Displaying output on the Terminal/Console o Formatting the output
@@ -28,9 +29,3 @@ This repository contains several beginner-level projects and exercises I complet
 - Defining Special Methods
 - Defining Overloaded Operators
 
-Project Name	Description
-Hello World	A simple program that prints "Hello, World!"
-Calculator	A basic calculator that performs arithmetic operations
-Number Guesser	A game where the user guesses a number
-File Reader	Reads and displays the content of a text file
-...	More programs from this period
