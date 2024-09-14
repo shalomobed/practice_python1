@@ -46,8 +46,9 @@ This repository contains several beginner-level projects and exercises I complet
 - scrabble.py - a small program that calculates the value of a word as shown in a scrabble game
 - word_frequency.py - a program that takes in text as input and converts it into a bag of words
 - number.py - using overloaded operators
-- triangle.py - A program that calculates several properties of
-the triangle
+- triangle.py - A program that calculates several properties of the triangle
+- calculator.py - a python program that implements a calculator in the terminal
+
 
 ### Future Plans
 I will be expanding my skills by working on larger projects. Stay tuned for more updates!
