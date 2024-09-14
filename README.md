@@ -33,7 +33,8 @@ This repository contains several beginner-level projects and exercises I complet
 - phone.py - A program that formats a given phone number as input
 - grades.py - Stores student’s exam grades as a list and student attendance as a set.
 - food.py - Simulates a point-of-sale device for a restaurant.
-- speeding.py - A program that is given two integers representing a speed limit and driving speed in miles per hour (mph) and outputs the traffic ticket amount interstate.py - U.S Interstate Highway program
+- speeding.py - A program that is given two integers representing a speed limit and driving speed in miles per hour (mph) and outputs the traffic ticket amount
+- interstate.py - U.S Interstate Highway program
 - median.py - A program that takes in three integers and outputs the median value
 - password.py - A program that takes a simple password and makes it stronger by replacing characters
 - reverse.py - A program that takes in a line of text as input, and outputs that line of text in reverse
