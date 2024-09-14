@@ -28,8 +28,7 @@ This repository contains several beginner-level projects and exercises I complet
 - salary.py - Uses user input to calculate the annual salary
 - interest.py - Calculates the amount of compound interest that will be paid on a loan
 - calories.py - Estimates the average calories burned for a person when exercising
-- change.py - Converts a user entered number of cents into the
-- fewest number of US coins of that amount
+- change.py - Converts a user entered number of cents into the fewest number of US coins of that amount
 - modular.py - Uses the constants and functions that are part of the Math and Random modules for Python
 - phone.py - A program that formats a given phone number as input
 - grades.py - Stores student’s exam grades as a list and student attendance as a set.
