@@ -28,8 +28,9 @@ This repository contains several beginner-level projects and exercises I complet
 - Defining Special Methods
 - Defining Overloaded Operators
 
-
-
-
-
-
+Project Name	Description
+Hello World	A simple program that prints "Hello, World!"
+Calculator	A basic calculator that performs arithmetic operations
+Number Guesser	A game where the user guesses a number
+File Reader	Reads and displays the content of a text file
+...	More programs from this period
