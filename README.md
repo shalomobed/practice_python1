@@ -41,7 +41,7 @@ This repository contains several beginner-level projects and exercises I complet
 - guess_my_number.py - a geussing game.
 - steps.py - converting distance in feet to steps
 - text_filter.py - filtering banned words
-- dna_translation.py - A program that transcribes a DNA sequence into mRNA, then translates that mRNA sequence into the sequence of amino acids that make up the protein.
+- dna_translation.py in Starter folder - A program that transcribes a DNA sequence into mRNA, then translates that mRNA sequence into the sequence of amino acids that make up the protein.
 - scrabble.py - a small program that calculates the value of a word as shown in a scrabble game
 - word_frequency.py - a program that takes in text as input and converts it into a bag of words
 - number.py - using overloaded operators
