@@ -48,4 +48,4 @@ This repository contains several beginner-level projects and exercises I complet
 - number.py - using overloaded operators
 
 ### Future Plans
-I will be expanding my skills by working on larger projects, which will be housed in separate repositories. Stay tuned for more updates!
+I will be expanding my skills by working on larger projects. Stay tuned for more updates!
