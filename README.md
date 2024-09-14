@@ -41,6 +41,7 @@ This repository contains several beginner-level projects and exercises I complet
 - normalize.py - adjustment of data by normalizing to values between 0 and 1.
 - guess_my_number.py - a geussing game.
 - steps.py - converting distance in feet to steps
+- step_to_miles.py - converts steps to miles
 - text_filter.py - filtering banned words
 - dna_translation.py in Starter folder - A program that transcribes a DNA sequence into mRNA, then translates that mRNA sequence into the sequence of amino acids that make up the protein.
 - scrabble.py - a small program that calculates the value of a word as shown in a scrabble game
@@ -48,7 +49,8 @@ This repository contains several beginner-level projects and exercises I complet
 - number.py - using overloaded operators
 - triangle.py - A program that calculates several properties of the triangle
 - calculator.py - a python program that implements a calculator in the terminal
-
-
+- highest_gpa.py - a program that adds multiple students, then calculates the highest gpa
+- inventory_item.py - a mini program of an inventory
+- manage_budget.py - a mini program of a budget
 ### Future Plans
 I will be expanding my skills by working on larger projects. Stay tuned for more updates!
